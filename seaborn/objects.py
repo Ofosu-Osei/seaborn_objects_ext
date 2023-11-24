@@ -54,6 +54,6 @@ from seaborn._core.scales import (  # noqa: F401
 # Custom addition to the seaborn._core namespace
 from seaborn._core.moves import Rolling  # noqa: F401
 # Custom addition to the seaborn._marks namespace
-from seaborn._marks._line_labels import LineLabel  # noqa: F401
+from seaborn._marks.line import LineLabel  # noqa: F401
 # Custom addition to the seaborn._stats namespace
 from seaborn._stats.regression import Lowess  # noqa: F401
